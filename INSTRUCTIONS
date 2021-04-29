@@ -1,0 +1,9 @@
+Run Local Server: 
+
+bundle exec jekyll serve
+
+Push changes to GitHub
+
+git add --all
+git commit -m "Commit Message"
+git push -u origin main
